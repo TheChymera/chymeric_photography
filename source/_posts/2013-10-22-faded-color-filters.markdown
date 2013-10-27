@@ -31,9 +31,9 @@ Bearing these thoughts in mind, it may be a worthwhile pursuit to see what exact
 
 ##Processing
 
-[RawTherapee](https://en.wikipedia.org/wiki/RawTherapee) is a modern, professional, cross-platform, and FOSS image processing program.
+[RawTherapee](https://en.wikipedia.org/wiki/RawTherapee) is a modern, professional, cross-platform, and [FOSS](https://en.wikipedia.org/wiki/FOSS) image processing program.
 It is widely used by photographers who value transparency in their processing work, and in contrast to many commercial alternatives it provides a good (though not-*yet?*-that-powerful) command line interface for batch processing.
-Since 2013 the software also ships with a series of *faded looks* profiles, which we are currently exploring.
+Since 2013 the software also ships with a series of “faded looks” profiles, which we are currently exploring.
 The profiles are poorly documented (the only published comments on their function are available [here](https://code.google.com/p/rawtherapee/issues/detail?id=1738)), and left to a more open-ended “artistic” evaluation for usage.
 Here we will demonstrate their performance based on one picture, and try to offer some simple guidelines for their usage 
 (we would be very thankful for comments to complete this basic guide in the discussion section below, or for [direct contributions](http://photo.chymera.eu/interact/)).
