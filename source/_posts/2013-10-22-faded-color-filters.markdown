@@ -4,11 +4,9 @@ title: "(Faded) Color Processing Profiles"
 date: 2013-10-22 03:05
 author: Horea Christian
 comments: true
-categories: [processing, filters, RawTherapee, color]
+categories: [processing, filters, RawTherapee, color, photos]
 published: true
 ---
-
-##Background
 
 In a [tumblr post](http://tmblr.co/ZHI4LqyOnj9f) regarding this issue we presented a conservatively processed version of the image at hand along with 3 of our more polished attempts at using ex-post faded color filtering.
 This is part of an ongoing effort to experiment with processing methods which we traditionally regarded as “unprofessional” or, for lack of a better word, “instagramy”.
