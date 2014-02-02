@@ -14,7 +14,7 @@ In this way your citation links will remain accessible whatever happens to our w
 
 You can view a history of our updates by clicking the ["commits" link above](https://github.com/TheChymera/chymeric_photography/commits/master).
 You may browse versions of each particular file by clicking through the file tree above.
-Our actual articles are all under ```[/source/_posts/](https://github.com/TheChymera/chymeric_photography/tree/master/source/_posts)```.
+Our actual articles are all under [```/source/_posts/```](https://github.com/TheChymera/chymeric_photography/tree/master/source/_posts).
 
 ##Reproduce this Website
 
