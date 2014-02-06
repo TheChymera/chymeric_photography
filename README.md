@@ -19,10 +19,10 @@ Our actual articles are all under [```/source/_posts/```](https://github.com/The
 
 ##Reproduce this Website
 
-Reproducible content is a vital to the quality control and transparency of any provided information.
-We are happy to offer you the possibility of cloning **our entire** website.
+Reproducible content is a vital to the quality control and transparency of any source of information.
+To this end, we are happy to offer you the possibility of cloning **our entire** website.
 
-To obtain a publishing-ready identical copy of the [Chymeric Photography Blog](http://photo.chymera.eu) on your machine follow the instructions below.
+To obtain a publishing-ready identical copy of the [Chymeric Photography Blog](http://photo.chymera.eu) on your machine, please follow the instructions below.
 
 ###Get Octopress
 
