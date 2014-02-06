@@ -27,19 +27,23 @@ To obtain a publishing-ready identical copy of the [Chymeric Photography Blog](h
 ###Get Octopress
 
 Clone Octopress:
+
     $ git clone git://github.com/imathis/octopress.git photo
     $ cd photo
 
 Install dependencies:
+
     $ gem install bundler
     $ bundle install
     
 ###Get our Theme of Choice
 
 Clone Whitespace:
+
     $ git clone git://github.com/lucaslew/whitespace.git .themes/whitespace
 
 Install Whitespace:
+
     $ bundle exec rake install['whitespace']
     
 ###Remove the Octopress Git Data
