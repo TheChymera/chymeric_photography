@@ -56,6 +56,10 @@ Install Whitespace:
     $ git remote add origin https://github.com/TheChymera/chymeric_photography.git
     $ git fetch --all
     $ git reset --hard origin/master
+    
+And generate the [Chymeric Photography Blog](http://photo.chymera.eu):
+
+    $ bundle exec rake generate
 
 ###Push Content
 If you would like to contribute to our website you would have to contact us for ssh login data.
