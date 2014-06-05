@@ -13,7 +13,7 @@ You may also follow us and interact with us there.
 
 Our Tumblr Pages:
 
-###[The Cyhmera's Photoblog](http://thechymera.tumblr.com/)
+###[The Chymera's Photoblog](http://thechymera.tumblr.com/)
 
 ---
 <sup>Browse the history of this file *or* find static versions to cite via [its GitHub page](https://github.com/TheChymera/chymeric_photography/blob/master/source/on_tumblr/index.markdown)!</sup>
