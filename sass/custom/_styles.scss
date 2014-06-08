@@ -1,20 +1,12 @@
 // This File is imported last, and will override other styles in the cascade
-// Add styles here to make changes without digging in too much
-
-$white: #FFFFFF;
-
-html {
-	background: $white;
-}
+// Add styles here to customize your blog
+// By default this file should be empty - please help us move stuff in its proper place:
+// https://github.com/lucaslew/whitespace/pull/17
 
 body {
 	font-family: $sans !important;
 	font-size: 1em;
 
-	> header {
-		background: $white;
-		text-align: center;
-	}
 	> nav {
 		a {
 			font-family: $sans;
@@ -24,19 +16,13 @@ body {
 		}
 		li + li {
 			border-left: 0px;
-
-			a {
-				border-left: 0px;
-			}
 		}
 	}
 
 	> div {
-		background: $white;
 		border-bottom: 0px;
 
 		> div {
-			background: $white;
 			border-right-width: 0px;
 		}
 	}
@@ -44,14 +30,7 @@ body {
 }
 
 article {
-	padding-top: 2em;
-
-	.entry-content {
-		h3 {
-			font-style: italic
-		}
-	}
-
+	padding-top: 2.3em;
 	ul, ol {
 		margin-left: 2em;
 	}
@@ -60,12 +39,6 @@ article {
 		text-decoration: none;
 	}
 
-	header {
-		h1.entry-title {
-			font-family: $heading-font-family;
-			font-weight: 400;
-		}
-	}
 }
 
 #content {
@@ -111,8 +84,4 @@ article {
 		}
 	}
 	
-}
-
-aside {
-	display: none;
 }
