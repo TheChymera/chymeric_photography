@@ -2,7 +2,7 @@
 layout: post
 title: "(Faded) Color Processing Profiles"
 date: 2013-10-22 03:05
-author: Horea Christian
+author: <a rel="author" href="https://plus.google.com/117525803180879614771/about">Horea Christian</a>
 comments: true
 categories: [processing, filters, RawTherapee, color, photos]
 published: true
